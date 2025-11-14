@@ -1,0 +1,75 @@
+Autopilot: Tesla Autopilot provides automatic steering, acceleration, and braking for other vehicles and pedestrians within its lane.
+
+Full Self-Driving (FSD): Includes Navigate on Autopilot, Auto Lane Change, Autopark, Summon, and Traffic Light and Stop Sign Control.
+
+Over-the-Air Updates: Tesla vehicles improve with time. Features like range enhancement, UI upgrades, and security patches are installed via Wi-Fi.
+
+Sentry Mode: Uses external cameras to detect threats when parked. Records events and notifies the Tesla app.
+
+Dog Mode: Maintains a comfortable cabin temperature for pets and displays a message that the pet is safe.
+
+Tesla App: Allows users to unlock the car, start climate control, schedule charging, and view real-time location.
+
+Regenerative Braking: Converts kinetic energy into electricity, extending range and reducing brake wear.
+
+Supercharging: Enables ultra-fast charging at Tesla's proprietary network of stations across the world.
+
+Autopilot: Tesla Autopilot provides automatic steering, acceleration, and braking for other vehicles and pedestrians within its lane.
+
+Full Self-Driving (FSD): Includes Navigate on Autopilot, Auto Lane Change, Autopark, Summon, and Traffic Light and Stop Sign Control.
+
+Over-the-Air Updates: Tesla vehicles improve over time through Wi-Fi-based software updates that deliver new features, UI improvements, and security enhancements.
+
+Sentry Mode: Uses external cameras to detect threats while parked, records suspicious activity, and notifies the Tesla app with video evidence.
+
+Dog Mode: Keeps the cabin climate comfortable for pets and displays a message on the screen assuring passersby that the pet is safe.
+
+Tesla App: Lets users lock and unlock the car, start or stop climate control, locate the vehicle, schedule charging, and receive alerts.
+
+Regenerative Braking: Converts kinetic energy during braking into electric power to recharge the battery, increasing efficiency and reducing brake wear.
+
+Supercharging: Allows ultra-fast charging at Tesla’s proprietary Supercharger network, enabling up to 200 miles of range in about 15 minutes.
+
+Smart Summon: Enables the car to autonomously navigate parking lots and come to the owner’s location using the Tesla app.
+
+Cabin Overheat Protection: Automatically activates climate control to prevent the interior from reaching unsafe temperatures.
+
+Voice Commands: Supports natural language control of navigation, music, temperature, and vehicle settings.
+
+Navigate on Autopilot: Guides the car from on-ramp to off-ramp on highways, handling lane changes, interchanges, and overtaking slower vehicles.
+
+Traffic Light and Stop Sign Control: Recognizes traffic signals and stop signs, slowing and stopping the car automatically when FSD is active.
+
+Auto Lane Change: When Autopilot is active, the vehicle can safely change lanes with driver confirmation.
+
+Autopark: Identifies parallel and perpendicular parking spaces and parks automatically with minimal input.
+
+HEPA Filtration System: Filters out pollen, bacteria, and pollution using hospital-grade filtration and activates Bio-Weapon Defense Mode when needed.
+
+Minimalist Interior: A clean dashboard with a central touchscreen eliminates the need for traditional buttons and knobs.
+
+Streaming Entertainment: Built-in access to Netflix, YouTube, and other platforms while parked, available through the infotainment system.
+
+In-Car Gaming: Play games using the central touchscreen, steering wheel, and wireless controllers while parked or charging.
+
+Dashcam: Records footage from multiple cameras while driving, providing security and evidence in case of incidents.
+
+Towing Capacity: Tesla vehicles like the Model X and Cybertruck offer impressive towing capabilities for utility use.
+
+Cold Weather Features: Includes heated seats, heated steering wheel, battery preconditioning, and remote defrost via the Tesla app.
+
+Wireless Updates: No service visits needed—Tesla continuously adds and refines features remotely.
+
+Power Liftgate: Electric trunk operation with customizable height settings and hands-free access on some models.
+
+Driver Profiles: Saves individual driver settings for seat position, mirrors, climate, and more, accessible via key or phone.
+
+All-Wheel Drive (AWD): Dual-motor setup delivers better control and traction in all weather conditions.
+
+Track Mode: Available on Performance models, it improves handling on racetracks with dynamic torque vectoring.
+
+Range Estimation: Real-time updates on estimated range based on terrain, driving style, and energy usage.
+
+Energy App: Shows detailed power consumption stats and helps optimize driving for better range.
+
+Tesla Arcade: A collection of arcade games you can play while parked, perfect for entertainment during charging stops.

@@ -1,0 +1,57 @@
+Tesla recommends rotating tires every 10,000 to 12,000 miles to ensure even wear. Check tire pressure monthly and before long trips.
+
+The 12V battery typically lasts 3–4 years. When you see a "Service Battery" warning, it may require replacement.
+
+Tesla vehicles do not require traditional oil changes. However, brake fluid should be checked every 2 years.
+
+Cabin air filters should be replaced every 2 years for Model 3/Y, and every 3 years for Model S/X.
+
+Annual inspections are advised to check HVAC, power steering, and suspension components.
+
+Software updates improve vehicle performance and fix known bugs. Connect your Tesla to Wi-Fi regularly.
+
+Winter maintenance tip: Keep battery charged above 20% and precondition before driving in cold weather.
+
+Minimal Scheduled Maintenance: Tesla vehicles have fewer moving parts compared to traditional gas cars, resulting in lower maintenance needs and longer service intervals.
+
+Brake System Maintenance: Thanks to regenerative braking, Tesla vehicles experience less brake wear. Brake fluid levels are checked and replaced only as needed.
+
+Tire Rotation and Balancing: Tesla recommends tire rotation every 10,000 to 12,000 miles or if uneven wear is detected, to ensure optimal range and safety.
+
+Battery Maintenance: Tesla batteries are designed to last hundreds of thousands of miles. No regular battery service is required, but software monitors battery health continuously.
+
+Software Diagnostics: Tesla vehicles run real-time diagnostics and can alert users or Tesla Service when issues are detected, often before they become serious problems.
+
+Over-the-Air Fixes: Many minor bugs and performance issues can be resolved via software updates without a service center visit.
+
+Mobile Service: Tesla’s Mobile Service units can come to your home or workplace for minor repairs, tire services, and inspections.
+
+Service Alerts: The Tesla app provides service notifications, maintenance reminders, and remote diagnostic results.
+
+Coolant Replacement: The battery coolant system typically requires replacement only every 4 years for Model S and X, and every 5 years for Model 3 and Y.
+
+Air Conditioning Service: Cabin air filters should be replaced every 2 to 3 years, and AC service includes desiccant bag replacement to keep the system efficient.
+
+Wiper Blade Replacement: Tesla recommends replacing wiper blades as needed, and the system alerts drivers when visibility is affected.
+
+12V Battery Replacement: The auxiliary 12V battery typically lasts 3-5 years. Tesla vehicles notify users when replacement is due.
+
+In-App Service Scheduling: Users can schedule service appointments through the Tesla app, including selecting specific issues and uploading photos or videos.
+
+Digital Owner’s Manual: Tesla provides an in-car digital manual with maintenance guidelines, troubleshooting tips, and step-by-step guides.
+
+Remote Diagnostics: Tesla Service can access vehicle data remotely to assess issues before scheduling or dispatching mobile service.
+
+Low Fluid Notifications: Tesla vehicles alert the driver when windshield washer fluid is low or coolant needs inspection.
+
+Rust Protection: Tesla uses rust-resistant materials and provides a limited warranty for body corrosion.
+
+Alignment Checks: Recommended after significant pothole impact or irregular tire wear. Tesla Service can perform precision alignments if needed.
+
+No Oil Changes: Since Tesla vehicles are electric, they do not require oil changes, fuel filter replacements, or emissions checks.
+
+Drive Unit Maintenance: Tesla’s electric motors (drive units) require no regular service and are covered under an 8-year limited warranty in most models.
+
+Remote Reset and Recovery: In case of minor software glitches, many issues can be resolved by performing a soft or hard reset using the touchscreen system.
+
+Service History Access: Tesla maintains digital service records that are accessible through the owner’s Tesla account and mobile app.
